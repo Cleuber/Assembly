@@ -19,6 +19,9 @@ $ gcc -m32 -o tic-tac tic-tac.o
 
 $ ./tic-tac
 
+<i>Alternative to debian</i>
+
+$ sudo apt install gcc-4.8-multilib
 
 ### Note
 
